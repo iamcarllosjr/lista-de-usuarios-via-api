@@ -1,4 +1,3 @@
-'use client'
 import { UsersPage } from "../app/Users";
 
 const Page = () => {
